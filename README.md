@@ -6,7 +6,6 @@ This is a C++ implementation of spatial-domain image enhancement using Gaussian 
 This project requires [OpenCV](https://opencv.org/).  
 
 - Make sure OpenCV is installed on your system.
-- Add OpenCV `include` and `lib` directories to your Visual Studio project.
 - Add the OpenCV `bin` directory (DLLs) to your system PATH if running the program outside VS.
 
 ## How to Run
